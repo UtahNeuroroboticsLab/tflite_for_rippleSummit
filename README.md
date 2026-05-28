@@ -37,5 +37,5 @@ Your expect output should be:
 ```bash
 --- TF LITE TEST SUCCESSFUL ---
 Input passed to model:  10.0
-Predicted Output (X*3):, 3.0
+Predicted Output (X*3): 30.0
 ```
